@@ -7,4 +7,4 @@ Wallpaper: Built into Plasma (May change)
 
 Icons: Plan to switch to [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme)
 
-Uses starship for terminal prettification (Might switch to a kitty setup at some point)
+Uses [Starship](https://starship.rs/) for terminal prettification (Might switch to a kitty setup at some point)
