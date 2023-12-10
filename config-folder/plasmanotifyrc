@@ -1,0 +1,5 @@
+[Applications][com.spotify.Client]
+ShowPopups=false
+
+[Notifications]
+PopupPosition=BottomCenter
