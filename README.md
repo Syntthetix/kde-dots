@@ -5,6 +5,8 @@ A basic KDE Plasma customization, largely using built-in themes/features.
 
 Wallpaper: Built into Plasma (May change)
 
+Wallpaper Mod: [Active Blur](https://store.kde.org/p/2017888/)
+
 Icons: Plan to switch to [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme)
 
 Uses [Starship](https://starship.rs/) for terminal prettification (Might switch to a kitty setup at some point)
